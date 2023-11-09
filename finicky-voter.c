@@ -1,4 +1,10 @@
 #include "finicky-voter.h"
+/*
+ * Liam Hannigan
+ *
+ * CS441/541: Project 5
+ *
+ */
 //Calls the voters
 void *driver_thread(void *arg) {
    voting_count = 0;
